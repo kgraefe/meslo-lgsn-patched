@@ -1,7 +1,7 @@
 # Meslo LGS NF Regular font for use with Clear-Type font-smoothing
 
 This is a patched version of [romkatv's MesloLGS NF Regular][1] font to
-work around [Clear-Type font-smoothing artifacts][1]. This is basically done by
+work around [Clear-Type font-smoothing artifacts][2]. This is basically done by
 adding a rectangular to the affected side of the glyphs with [FontForge][3]:
 
 ![Font Forge](fontforge.png)
